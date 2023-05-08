@@ -1,0 +1,28 @@
+Cluster.Sub-Cluster Number	Peptide Number	Alignment	Position	Description	Peptide
+1.1	Consensus	GAFFLYDRLASTVIYRG	-	-	-
+1.1	1	GAFFLYDRLASTVIYRG	1	"T-cell_consensus_epitope	157-173"	GAFFLYDRLASTVIYRG
+1.1	2	GAFFLYDRLA-------	1	"B-cell_consensus_epitope	157-166"	GAFFLYDRLA
+1.1	3	-------RLASTVIYRG	8	"T-cell_consensus_epitope	164-173"	RLASTVIYRG
+1.1	4	---------ASTVIYRG	10	"B-cell_consensus_epitope	166-173"	ASTVIYRG
+2.1	Consensus	ILGPDCCIEPHDWTKNITDKI	-	-	-
+2.1	1	ILGPDCCIEPHDWTKNITDK-	1	"B-cell_consensus_epitope	603-622"	ILGPDCCIEPHDWTKNITDK
+2.1	2	ILGPDCCI-------------	1	"B-cell_consensus_epitope	603-610"	ILGPDCCI
+2.1	3	----DCCIEPHDWTKNITDKI	5	"T-cell_consensus_epitope	607-623"	DCCIEPHDWTKNITDKI
+3.1	Consensus	PSATKRWGFRSGVPPKVV	-	-	-
+3.1	1	PSATKRWGFRSGVPP---	1	"B-cell_consensus_epitope	80-94"	PSATKRWGFRSGVPP
+3.1	2	--------FRSGVPPKVV	9	"T-cell_consensus_epitope	88-97"	FRSGVPPKVV
+4.1	Consensus	YEAGEWAENCYNLEIKKPDG	-	-	-
+4.1	1	YEAGEWAENCYNLEIKKPDG	1	"B-cell_consensus_epitope	99-118"	YEAGEWAENCYNLEIKKPDG
+4.1	2	YEAGEW--------------	1	"T-cell_consensus_epitope	99-104"	YEAGEW
+5.1	Consensus	ILNRKAIDFLL	-	-	-
+5.1	1	ILNRKAIDFLL	1	"T-cell_consensus_epitope	584-594"	ILNRKAIDFLL
+5.1	2	ILNRKAIDF--	1	"T-cell_consensus_epitope	584-592"	ILNRKAIDF
+6.1	Consensus	DNWWTGWRQWIPAGI	-	-	-
+6.1	1	DNWWTGWRQWIPAGI	1	"T-cell_consensus_epitope	642-656"	DNWWTGWRQWIPAGI
+6.1	2	DNWWTGWRQW-----	1	"B-cell_consensus_epitope	642-651"	DNWWTGWRQW
+7.1	Singleton	WIPYFGP	-	"T-cell_consensus_epitope	531-537, T-cell_consensus_epitope	531-537"	WIPYFGP
+8.1	Singleton	RWGGTC	-	"B-cell_consensus_epitope	596-601"	RWGGTC
+9.1	Singleton	CYNLEIKKPDGSECLP	-	"B-cell_consensus_epitope	108-123"	CYNLEIKKPDGSECLP
+10.1	Singleton	RGFPRCRYVHK	-	"B-cell_consensus_epitope	130-140"	RGFPRCRYVHK
+11.1	Singleton	EGLMHNQ	-	"T-cell_consensus_epitope	545-551, T-cell_consensus_epitope	545-551"	EGLMHNQ
+12.1	Singleton	QLFLRATTELRT	-	"T-cell_consensus_epitope	570-581"	QLFLRATTELRT

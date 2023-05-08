@@ -1,0 +1,46 @@
+>B-cell_consensus_epitope	80-94
+PSATKRWGFRSGVPP
+>T-cell_consensus_epitope	88-97
+FRSGVPPKVV
+>B-cell_consensus_epitope	99-118
+YEAGEWAENCYNLEIKKPDG
+>T-cell_consensus_epitope	99-104
+YEAGEW
+>B-cell_consensus_epitope	108-123
+CYNLEIKKPDGSECLP
+>B-cell_consensus_epitope	130-140
+RGFPRCRYVHK
+>B-cell_consensus_epitope	157-166
+GAFFLYDRLA
+>T-cell_consensus_epitope	157-173
+GAFFLYDRLASTVIYRG
+>T-cell_consensus_epitope	164-173
+RLASTVIYRG
+>B-cell_consensus_epitope	166-173
+ASTVIYRG
+>T-cell_consensus_epitope	531-537
+WIPYFGP
+>T-cell_consensus_epitope	531-537
+WIPYFGP
+>T-cell_consensus_epitope	545-551
+EGLMHNQ
+>T-cell_consensus_epitope	545-551
+EGLMHNQ
+>T-cell_consensus_epitope	570-581
+QLFLRATTELRT
+>T-cell_consensus_epitope	584-592
+ILNRKAIDF
+>T-cell_consensus_epitope	584-594
+ILNRKAIDFLL
+>B-cell_consensus_epitope	596-601
+RWGGTC
+>B-cell_consensus_epitope	603-622
+ILGPDCCIEPHDWTKNITDK
+>B-cell_consensus_epitope	603-610
+ILGPDCCI
+>T-cell_consensus_epitope	607-623
+DCCIEPHDWTKNITDKI
+>B-cell_consensus_epitope	642-651
+DNWWTGWRQW
+>T-cell_consensus_epitope	642-656
+DNWWTGWRQWIPAGI

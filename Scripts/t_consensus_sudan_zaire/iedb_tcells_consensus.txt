@@ -1,0 +1,43 @@
+Cluster.Sub-Cluster Number	Peptide Number	Alignment	Position	Description	Peptide
+1.1	Consensus	GAFFLYDRLASTVIYRG	-	-	-
+1.1	1	GAFFLYDRLASTV----	1	"Zaire Consensus T-cell epitope	145-169"	GPCAGDFAFHKEGAFFLYDRLASTV
+1.1	2	GAFFLYDRLAST-----	1	"Sudan Consensus T-cell epitope	149-168"	GDYAFHKDGAFFLYDRLAST
+1.1	3	--FFLYDRLASTVIYRG	3	"Sudan Consensus T-cell epitope	159-173"	FFLYDRLASTVIYRG
+2.1	Consensus	QLFLRATTELRT	-	-	-
+2.1	1	QLFLRATTELRT	1	"Sudan Consensus T-cell epitope	570-585"	QLFLRATTELRTYTIL
+2.1	2	-LFLRATTELRT	2	"Zaire Consensus T-cell epitope	571-592"	LFLRATTELRTFSILNRKAIDF
+2.1	3	------TTELRT	7	"Sudan Consensus T-cell epitope	576-590"	TTELRTYTILNRKAI
+2.12	Consensus	ILNRKAIDF	-	-	-
+2.12	2	ILNRKAIDF	1	"Zaire Consensus T-cell epitope	571-592"	LFLRATTELRTFSILNRKAIDF
+2.12	3	ILNRKAI--	1	"Sudan Consensus T-cell epitope	576-590"	TTELRTYTILNRKAI
+3.1	Consensus	DNWWTGWRQWIPAGI	-	-	-
+3.1	1	DNWWTGWRQWIPAGI	1	"Sudan Consensus T-cell epitope	640-666"	NDDNWWTGWRQWIPAGIGITGIIIAII
+3.1	2	DNWWTGWRQWIPAGI	1	"Zaire Consensus T-cell epitope	642-656"	DNWWTGWRQWIPAGI
+3.1	3	-----GWRQWIPAGIGI	6	"Zaire Consensus T-cell epitope	647-666"	GWRQWIPAGIGVTGVIIAVI
+4.1	Consensus	ILNRKAIDFLL	-	-	-
+4.1	1	ILNRKAIDFLL	1	"Sudan Consensus T-cell epitope	583-597"	TILNRKAIDFLLRRW
+4.1	2	ILNRKAIDFLL	1	"Zaire Consensus T-cell epitope	584-598"	ILNRKAIDFLLQRWG
+5.1	Consensus	RLASTVIYRG	-	-	-
+5.1	1	RLASTVIYRG	1	"Zaire Consensus T-cell epitope	164-180"	RLASTVIYRGTTFAEGV
+5.1	2	---STVIYRG	4	"Sudan Consensus T-cell epitope	167-181"	STVIYRGVNFAEGVI
+6.1	Consensus	FRSGVPPKVV	-	-	-
+6.1	1	FRSGVPPKVV	1	"Sudan Consensus T-cell epitope	88-104"	FRSGVPPKVVSYEAGEW
+6.1	2	FRSGVPPKVV	1	"Zaire Consensus T-cell epitope	88-104"	FRSGVPPKVVNYEAGEW
+6.12	Consensus	YEAGEW	-	-	-
+6.12	1	YEAGEW	1	"Sudan Consensus T-cell epitope	88-104"	FRSGVPPKVVSYEAGEW
+6.12	2	YEAGEW	1	"Zaire Consensus T-cell epitope	88-104"	FRSGVPPKVVNYEAGEW
+8.1	Consensus	DCCIEPHDWTKNITDKI	-	-	-
+8.1	1	DCCIEPHDWTKNITDKI	1	"Zaire Consensus T-cell epitope	607-623"	DCCIEPHDWTKNITDKI
+8.1	2	----EPHDWTKNITDKI	5	"Sudan Consensus T-cell epitope	611-627"	EPHDWTKNITDKINQII
+9.1	Consensus	WIPYFGP	-	-	-
+9.1	1	WIPYFGP	1	"Zaire Consensus T-cell epitope	531-551"	WIPYFGPAAEGIYIEGLMHNQ
+9.1	2	WIPYFGP	1	"Sudan Consensus T-cell epitope	531-549"	WIPYFGPGAEGIYTEGLMH
+9.1	Consensus	EGLMHNQ	-	-	-
+9.1	1	EGLMHNQ	1	"Zaire Consensus T-cell epitope	531-551"	WIPYFGPAAEGIYIEGLMHNQ
+9.1	2	EGLMH--	1	"Sudan Consensus T-cell epitope	531-549"	WIPYFGPGAEGIYTEGLMH
+9.1	Consensus	WIPYFGP	-	-	-
+9.1	1	WIPYFGP	1	"Zaire Consensus T-cell epitope	531-551"	WIPYFGPAAEGIYIEGLMHNQ
+9.1	2	WIPYFGP	1	"Sudan Consensus T-cell epitope	531-549"	WIPYFGPGAEGIYTEGLMH
+9.1	Consensus	EGLMHNQ	-	-	-
+9.1	1	EGLMHNQ	1	"Zaire Consensus T-cell epitope	531-551"	WIPYFGPAAEGIYIEGLMHNQ
+9.1	2	EGLMH--	1	"Sudan Consensus T-cell epitope	531-549"	WIPYFGPGAEGIYTEGLMH
